@@ -1,0 +1,38 @@
+body {
+    background-image: url("../images/background.png");
+    background-size: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.stats {
+    text-align: center;
+    border: solid;
+    border-width: 20px;
+    margin-right: 200px;
+    margin-left: 200px;
+    color: palegreen;
+    font-size: 25px;
+    border-color: black;
+
+}
+h1 {
+    color: orange;
+
+}
+h2 {
+   color: blue;
+   text-align: center;
+}
+
+.wins {
+    color: rgb(9, 187, 9);
+}
+
+.losses {
+    color: red;
+
+}
+
+.sportname-text {
+    text-align: center;
+}
